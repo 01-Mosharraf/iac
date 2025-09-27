@@ -13,7 +13,6 @@ This project demonstrates the ability to **design, deploy, and automate infrastr
 
 ## Architecture Diagram
 ![Architecture Diagram](docs/architecture-diagram.png)  
-*(Use draw.io or Lucidchart to create the diagram and save it in `docs/` folder)*
 
 ---
 
@@ -96,6 +95,4 @@ All resources are region-specific; adjust ami_id and azs according to your regio
 
 For any issues, check Terraform logs and AWS CloudWatch
 
-## Architecture diagram
 
-![Example image](images/image1.png)
